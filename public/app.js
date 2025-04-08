@@ -56,3 +56,18 @@ const filmes = [
     "video": "video/autodacompadecida.mp4"
   }
 ]
+
+document.querySelectorAll('.filme-img').forEach(img => {
+  img.addEventListener('click', () => {
+    const id = img.getAttribute('data-id');
+    window.location.href = `detalhes.html?id=${id}`;
+  });
+});
+
+
+
+function Main(){
+
+  location.href = "index.html"
+
+}
