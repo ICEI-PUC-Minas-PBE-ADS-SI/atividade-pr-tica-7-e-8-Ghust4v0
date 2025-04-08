@@ -12,15 +12,11 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gustavo Almeida Reis
+- Matricula: 878653
+- Proposta de projeto escolhida: Site de Catálogo de Filmes
+- Breve descrição sobre seu projeto: Um site onde demonstra as novidades do cinema e os mais diversos filmes
 
-## Print da versão responsiva com CSS puro
+![alt text](image.png)
 
-<<  COLOQUE A IMAGEM AQUI >>
-
-## Print da versão responsiva com Bootstrap
-
-<<  COLOQUE A IMAGEM AQUI >>
+Pagina de JavaScript
