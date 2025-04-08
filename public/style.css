@@ -18,7 +18,12 @@ header{
     width: 100%;
 }
 
-main{
+#Main:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+#desc{
     display: flex;
     flex-wrap: wrap;
     max-width: 70%;
@@ -27,12 +32,13 @@ main{
     ;
 }
 
-main > article{
+#desc > article{
     margin: 5px;
 
 }
 
 article img:hover{
+    transform: scale(1.05);
     cursor: pointer;
 }
 
